@@ -1,8 +1,14 @@
 # opinionated-react-boilerplate
 React boilerplate with goodies including routes, views, templates and asset pipeline using Sass, Compass and Susy.
 
+## PLEASE NOTE:
+If you've stumbled onto this project it is currently under-construction with a working status.
+
+## Contributing
+Contributions are welcome! See the Roadmap below and contact us if you like the vision and want to help out.
+
 ## Questions?
-I am working on documentation as I build this out, but if you have any question, just submit an issue and I will get back to you ASAP.
+We are working on documentation as we build this out, but if you have any question, just submit an issue and we will get back to you ASAP.
 
 ### Documentation Roadmap
 - What we're building
